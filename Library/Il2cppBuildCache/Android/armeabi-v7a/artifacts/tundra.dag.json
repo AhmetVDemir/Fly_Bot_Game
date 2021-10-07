@@ -1,0 +1,122 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp /Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so",
+      "Action": "\"/Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/il2cpp/build/deploy/netcoreapp3.1/il2cpp\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARMv7\" --configuration=\"Release\" --outputpath=\"/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so\" --cachedirectory=\"/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Assets/../Library/il2cpp_android_armeabi-v7a/il2cpp_cache\" --additional-include-directories=\"/Applications/Unity/Hub/Editor/2020.3.1f1/PlaybackEngines/AndroidPlayer/Tools/bdwgc/include\" --additional-include-directories=\"/Applications/Unity/Hub/Editor/2020.3.1f1/PlaybackEngines/AndroidPlayer/Tools/libil2cpp/include\" --baselib-directory=\"/Applications/Unity/Hub/Editor/2020.3.1f1/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a\" --avoid-dynamic-library-copy --tool-chain-path=\"/Applications/Unity/Hub/Editor/2020.3.1f1/PlaybackEngines/AndroidPlayer/NDK\" --additional-cpp=\"/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAppController+Notifications.h\" --additional-cpp=\"/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityNotificationData.h\" --additional-cpp=\"/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityNotificationManager.h\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"/Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/Tools/MapFileParser/MapFileParser\" --directory=\"/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput\"",
+      "Inputs": [
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/Unity.2D.IK.Runtime.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VideoModule.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityAppController+Notifications.h",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityNotificationData.h",
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/UnityNotificationManager.h"
+      ],
+      "Outputs": [
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so"
+      ],
+      "TargetDirectories": [
+        "/Users/by.neon/Desktop/Desk/Projeler/flyBot/flyBot/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput"
+      ],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../../../../../Library"
+    },
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
